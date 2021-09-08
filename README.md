@@ -1,4 +1,4 @@
-# what-im-studying
+# What I am Studying
 
 
 
