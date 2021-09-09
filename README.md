@@ -9,15 +9,15 @@
 
 
 ## Git 
-[] [Git Essential Training](https://www.linkedin.com/learning/git-essential-training-the-basics/version-control) - [Github](https://github.com/coltenappleby/git_notes)
+- [ ] [Git Essential Training](https://www.linkedin.com/learning/git-essential-training-the-basics/version-control) - [Github](https://github.com/coltenappleby/git_notes)
 
 
 ## Python
-[] Automate the Boring Stuff
+- [ ] Automate the Boring Stuff
 
 ## Java
-[] [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java/home/welcome) <br>
-[]
+- [ ] [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java/home/welcome) <br>
+- [ ]
 
 
 
@@ -25,6 +25,6 @@
 
 
 ## Notes
-[]   Have not started <br>
+- [ ]   Have not started <br>
 [ip] In-Progress <br>
 [x]  Completed
